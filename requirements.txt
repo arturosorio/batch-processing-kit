@@ -22,3 +22,4 @@ psutil>=5.7.0
 # NOTE: Speech SDK v1.11.0 has a bug during broken session reconnection with SRFrontEnd; blacklisted
 azure-cognitiveservices-speech==1.15.0
 audiofile
+dañamos esto
